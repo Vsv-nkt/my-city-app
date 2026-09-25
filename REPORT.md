@@ -29,18 +29,4 @@
 - Основи Expo Router та файлової навігації.
 - Робота з `FlatList`, `ScrollView`, `View`, `Text`, `Link`.
 - Стилізація через `StyleSheet.create()`.
-- Навігація через `Link` та `Stack`.
-
-## Скріншоти
-
-### Головна сторінка
-
-![Головна](./screenshot-home.png)
-
-### Сторінка "Моє місто"
-
-![Моє місто](./screenshot-city.png)
-
-### Сторінка "Про мене"
-
-![Про мене](./screenshot-about.png)
+- Навігація через `Link` та `Stack`
